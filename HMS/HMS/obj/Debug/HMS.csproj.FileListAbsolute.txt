@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Admin\source\repos\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Admin\source\repos\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.Home.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.Doctor_Form.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.DiagnosisForm.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.PatientForm.resources
+C:\Users\Admin\source\repos\HMS\HMS\obj\Debug\HMS.SplashForm.resources
